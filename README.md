@@ -46,6 +46,7 @@ Please make use of the api folder provided for the product list.
 
 Start with :
 >git clone https://github.com/ChaitanyaKadamati/React-ShoppingCart-App.git    
+>cd React-ShoppingCart-App    
 >git install    
 >npm run start    
 >npm test
