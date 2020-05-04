@@ -43,3 +43,9 @@ Here let's build an E-commerce application with the following features.
 
 
 Please make use of the api folder provided for the product list.
+
+Start with :
+>git clone https://github.com/ChaitanyaKadamati/React-ShoppingCart-App.git    
+>git install    
+>npm run start    
+>npm test
